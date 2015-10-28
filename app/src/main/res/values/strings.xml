@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Domotica2_0</string>
+    <string name="action_settings">Settings</string>
+    <string name="titulo">Domotica 2.0</string>
+    <string name="on">On</string>
+    <string name="off">Off</string>
+    <string name="luz">Luz</string>
+    <string name="inten">Intensidad</string>
+</resources>
